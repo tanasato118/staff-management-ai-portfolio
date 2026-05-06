@@ -1,0 +1,16 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 内部開発用
+.claude/
+.cursor/
+.cursorrules
+.mcp.json
+
+# 一時ファイル
+*.tmp
+*.bak
+*~
